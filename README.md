@@ -2,7 +2,7 @@
 - 👀 I’m interested in swimming,ping pong,bike rides
 - 🌱 I’m currently learning Btech in computer science and engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me by mailing on azjadtessel@gmail.com
 
 <!---
 Azjadtessel/Azjadtessel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
